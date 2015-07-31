@@ -1,4 +1,3 @@
-# What is this!?
 These are my take on the Base16 Ocean Light theme for a couple of editors
 
 ## Font
